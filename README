@@ -1,9 +1,17 @@
 This is my little repository of arduino snips.
 
+
 Mainly for learning and hopefully to reach my goal to have:
 - Arduino based home security system with alarm and integration to OpenWRT
 - Arduino solar panel optimizer, sun follower
 - Arduino on the boat as, anchor watch, security system, environment logger.
+
+
+Code snipps
+===========
+LEDtoggler.pde  - This code toggle four LED's on or off by sending commands over the serial port.
+
+
 
 
 Mats Karlsson
